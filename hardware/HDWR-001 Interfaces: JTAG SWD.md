@@ -18,8 +18,12 @@ _Note: Some devices do not have header pins on the board, but access to the pins
 ## Test
 
 1. Identify the JTAG and/or CWD ports.
-2. Usually the pins exposed will be in a group. Check if the pin interfaces for JTAG (TMI, TCK, TDI, TDO) or SWD (SWDIO, SWCLK) can be identified using a tool or via documentation.
-3. Connect to the pin interfaces to verify that no interface is available for firmware  upload or download.
+2. Usually the exposed pins will be in a group. Check if the pin interfaces for JTAG (TMI, TCK, TDI, TDO) or SWD (SWDIO, SWCLK) can be identified using a tool or via board/chip documentation.
+3. Connect to the pin interfaces to verify that no interface is available for firmware upload or download.
+
+## Results
+
+A device will fail this test if the pins are exposed for connection and security fuse has not been blown, or any actions to the firmware including modification and execution can be done.
 
 ## Impact
 
