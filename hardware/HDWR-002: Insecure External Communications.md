@@ -6,7 +6,7 @@ Risks: Component Vulnerabilities, Information Exposure
 
 An internal or external communication bus may be implemented on a controller or system using a variety of protocols. These physical interfaces and protocols can be susceptible to interference or leakage of sensitive information. Building automation and control protocols can be susceptible to attacks due to their insecure formats. Protocols like Niagara4, SYLK, BACNet, Nano, while unencrypted, should not allow malicious behavior to impact device performance.
 
-Note that this test case specifically applies to buses that are external to chips. 1-wire, I2C, etc. are covered by [HDWR-003](HDWR-003 Insecure Internal Communication.md).
+Note that this test case specifically applies to buses that are external to chips. 1-wire, I2C, etc. are covered by HDWR-003: Insecure Internal Communication.
 
 ## Tools
 
