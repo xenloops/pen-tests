@@ -1,5 +1,7 @@
 # Internal Communication Bus and Protocol
 
+CWE-1189
+
 Risk: Injection
 
 ## Description
