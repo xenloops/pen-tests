@@ -1,5 +1,7 @@
 # Wireless Technology Stack
 
+CWE-319
+
 Risks: Authentication, Authorization, Component Vulnerabilities, Information Exposure 
 
 ## Description
