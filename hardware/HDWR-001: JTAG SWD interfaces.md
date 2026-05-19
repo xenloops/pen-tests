@@ -1,5 +1,7 @@
 # JTAG/SWD Interface
 
+CWE-1191
+
 Risk: Information Exposure
 
 ## Description
