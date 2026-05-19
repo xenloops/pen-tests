@@ -1,4 +1,4 @@
-# Insecure Internal Communication Bus and Protocol
+# Internal Communication Bus and Protocol
 
 Risk: Injection
 
