@@ -1,5 +1,7 @@
 # External Communication Bus and Protocol
 
+CWE-319
+
 Risks: Component Vulnerabilities, Information Exposure
 
 ## Description
