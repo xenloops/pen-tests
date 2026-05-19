@@ -1,4 +1,4 @@
-# Insecure JTAG/SWD Interface
+# JTAG/SWD Interface
 
 Risk: Information Exposure
 
