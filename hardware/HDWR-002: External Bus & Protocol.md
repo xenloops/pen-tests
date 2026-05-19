@@ -1,4 +1,4 @@
-# Insecure External Communication Bus and Protocol
+# External Communication Bus and Protocol
 
 Risks: Component Vulnerabilities, Information Exposure
 
